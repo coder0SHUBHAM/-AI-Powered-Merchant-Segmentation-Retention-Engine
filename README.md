@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project develops an end-to-end AI system designed for payment platforms (similar to Razorpay) to analyze merchant transaction data, segment merchants, predict churn, and provide actionable business insights. The system leverages RFM (Recency, Frequency, Monetary) analysis, KMeans clustering for segmentation, and RandomForest for churn prediction, all presented through an interactive Streamlit dashboard.
+This project develops an end-to-end AI system designed for payment platforms  to analyze merchant transaction data, segment merchants, predict churn, and provide actionable business insights. The system leverages RFM (Recency, Frequency, Monetary) analysis, KMeans clustering for segmentation, and RandomForest for churn prediction, all presented through an interactive Streamlit dashboard.
 
 ## Architecture Explanation
 
