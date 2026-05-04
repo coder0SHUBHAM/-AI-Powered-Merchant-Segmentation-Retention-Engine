@@ -23,12 +23,9 @@ The primary goal is to provide payment platforms with a robust tool to:
 ]
 ### Segmentation Page
 
-![Segmentation Page Screenshot Placeholder](images/segmentation_page.png)
+![Segmentation Page Screenshot Placeholder](https://github.com/coder0SHUBHAM/-AI-Powered-Merchant-Segmentation-Retention-Engine/blob/main/i2.png?raw=true)]
 
 ### Risk Analysis Page
+![Risk Analysis Page Screenshot Placeholder](https://github.com/coder0SHUBHAM/-AI-Powered-Merchant-Segmentation-Retention-Engine/blob/main/i3.png?raw=true)]
 
-![Risk Analysis Page Screenshot Placeholder](images/risk_analysis_page.png)
 
-### Merchant Detail Page
-
-![Merchant Detail Page Screenshot Placeholder](images/merchant_detail_page.png)
