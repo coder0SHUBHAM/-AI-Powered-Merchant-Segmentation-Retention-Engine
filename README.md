@@ -17,10 +17,10 @@ The primary goal is to provide payment platforms with a robust tool to:
 
 ## Screenshots (Placeholders)
 
-### Overview Page
 
-![Overview Page Screenshot Placeholder](images/overview_page.png)
 
+[![Overview Page Screenshot Placeholder](https://github.com/coder0SHUBHAM/-AI-Powered-Merchant-Segmentation-Retention-Engine/blob/main/i1.png?raw=true)
+]
 ### Segmentation Page
 
 ![Segmentation Page Screenshot Placeholder](images/segmentation_page.png)
